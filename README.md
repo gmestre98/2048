@@ -1,7 +1,7 @@
 # 2048
 Implementation of 2048 game in C with plenty of extras
 
-This game was made as my intermidiate project for my Programation discpline at my first year at high school
+This game was made as my intermidiate project for my Programation discpline at my first year at college
 It allows the user to play the game and has a lot of extras I made for the delivery and some I made for fun after it, as allowing 25 undos, allowing to save, opening saved games, starting new games for a different player without running the program again.
 
 The program can be compiled using gcc with the following command:
