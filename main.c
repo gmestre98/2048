@@ -10,8 +10,8 @@
 #include <math.h>
 #include "Defines.h"
 #include "Gráfica.h"
-#include "Movimentos.h"
 #include "Stores_Undos.h"
+#include "Playalone.h"
 
 
 /**
@@ -33,7 +33,7 @@ int main(void)
     int height = TABLE_SIZE;                                                    // Altura da Janela
     int dimensao_tabuleiro = 1;                                                 // Dimensão do Tabuleiro
     int square_size_px, board_size_px, board_pos;                               // Variavéis do Tabuleiro
-    char nome_jogador [MEDIUMSTR] = {0};                                        // Nome do Jogador
+    char nome_jogador [MEDIUMSTR] = {0};                                         // Nome do Jogador
     int dificuldade = 1;                                                        // Dificuldade
     int pontuacao[MAX_UNDOS] = {0};                                             // Vector com as Pontuações do Jogo
     time_t tempoactual = 0;                                                     // Tempo Actual
@@ -49,6 +49,7 @@ int main(void)
     int clicou = 0;                                                             // Indica se foi selecionada a caixa
     int readname = 0;                                                           // Indica se deve ser lido o nome
     int posicaonome = 0;                                                        // Posição da letra do nome que estamos a ler
+    int autoplay = 0;                                                           // Variável que indica se o autoplay está ligado
     Estatistica *Stats=NULL;                                                    // Estatisticas
     Stats = (Estatistica *)calloc(100, sizeof(Estatistica));
     if( Stats == NULL)
@@ -67,6 +68,11 @@ int main(void)
     // Enquanto o sinal quit for 0 este loop deixa o utilizador ir fazendo jogadas
     while( quit == 0 )
     {
+        if(autoplay == 1)
+        {
+            Move(dificuldade, dimensao_tabuleiro, board, board_anterior,
+                pontuacao, board_ultima_jogada);
+        }
         // Função que vai fazendo a contagem do tempo
         Tempo(&tempoactual, tempoinicial, t, dificuldade, dimensao_tabuleiro, board, tempoguardado);
         // while there's events to handle
@@ -144,6 +150,7 @@ int main(void)
                         SaveStats(n_jogos, Stats, dimensao_tabuleiro, dificuldade, board, pontuacao, tempoactual, nome_jogador);
                         // Alteração dos valores para o começo de um novo jogo
                         ResetVars(board, &board_pos);
+                        t = 0;
                         n_jogos ++;
                         dados = 4;
                         break;
@@ -163,6 +170,9 @@ int main(void)
                         break;
                     case SDLK_s:
                         Save(dimensao_tabuleiro, dificuldade, tempoactual, nome_jogador, board, pontuacao);
+                        break;
+                    case SDLK_a:
+                        autoplay = 1;
                         break;
                     default:
                         break;

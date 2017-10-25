@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1491779492 source:/home/gmestre/Desktop/Projecto_Intermedio_1024/main.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<string.h>
+	<math.h>
+
+1493496375 source:/home/gmestre/Desktop/1024_com_brincadeiras/main.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<string.h>
+	<math.h>
+	"Defines.h"
+	"Gráfica.h"
+	"Movimentos.h"
+	"VerificaMudanca.h"
+	"Stores_Undos.h"
+
+1493479121 source:/home/gmestre/Desktop/1024_com_brincadeiras/Defines.c
+	<stdio.h>
+	<stdlib.h>
+	"Defines.h"
+
+1493478846 /home/gmestre/Desktop/1024_com_brincadeiras/Defines.h
+
+1493479361 /home/gmestre/Desktop/1024_com_brincadeiras/Movimentos.h
+	"Defines.h"
+
+1493479361 source:/home/gmestre/Desktop/1024_com_brincadeiras/Movimentos.c
+	<stdio.h>
+	<stdlib.h>
+	"Movimentos.h"
+	"VerificaMudanca.h"
+
+1493479361 /home/gmestre/Desktop/1024_com_brincadeiras/VerificaMudanca.h
+	"Defines.h"
+
+1493479361 source:/home/gmestre/Desktop/1024_com_brincadeiras/VerificaMudanca.c
+	<stdio.h>
+	<stdlib.h>
+	"VerificaMudanca.h"
+
+1493479953 /home/gmestre/Desktop/1024_com_brincadeiras/Stores_Undos.h
+	"Defines.h"
+
+1493496375 /home/gmestre/Desktop/1024_com_brincadeiras/Gráfica.h
+	"Defines.h"
+
+1497089004 source:/home/gmestre/Desktop/2048/FimJogo.c
+	"FimJogo.h"
+
+1497089014 /home/gmestre/Desktop/2048/FimJogo.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<string.h>
+	<math.h>
+	"Defines.h"
+	"Gráfica.h"
+	"Stores_Undos.h"
+
+1497623542 /home/gmestre/Desktop/2048/Defines.h
+
+1497638963 /home/gmestre/Desktop/2048/Gráfica.h
+	"Defines.h"
+
+1496738331 /home/gmestre/Desktop/2048/Stores_Undos.h
+	"Defines.h"
+
+1497296782 source:/home/gmestre/Desktop/2048/main.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<string.h>
+	<math.h>
+	"Defines.h"
+	"Gráfica.h"
+	"Movimentos.h"
+	"Stores_Undos.h"
+	"FimJogo.h"
+
+1496691529 /home/gmestre/Desktop/2048/Movimentos.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Defines.h"
+	"Stores_Undos.h"
+	"FimJogo.h"
+
+1496691269 source:/home/gmestre/Desktop/2048/Movimentos.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Movimentos.h"
+
+1496738317 source:/home/gmestre/Desktop/2048/Stores_Undos.c
+	<stdio.h>
+	<stdlib.h>
+	"Stores_Undos.h"
+

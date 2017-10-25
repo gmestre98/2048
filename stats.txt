@@ -1,0 +1,624 @@
+Nome do jogador:	 goncalo1
+Pontuação máxima obtida:	 168
+Maior peça obtida:	 8
+Tempo de jogo:	 12
+Dimensão do tabuleiro:	 7
+Dificuldade do jogo:	 2048
+
+
+Nome do jogador:	 pokjhbv
+Pontuação máxima obtida:	 224
+Maior peça obtida:	 32
+Tempo de jogo:	 10
+Dimensão do tabuleiro:	 5
+Dificuldade do jogo:	 32768
+
+
+Nome do jogador:	 ertyuio
+Pontuação máxima obtida:	 436
+Maior peça obtida:	 32
+Tempo de jogo:	 12
+Dimensão do tabuleiro:	 5
+Dificuldade do jogo:	 4096
+
+
+Nome do jogador:	 (null)
+Pontuação máxima obtida:	 0
+Maior peça obtida:	 0
+Tempo de jogo:	 0
+Dimensão do tabuleiro:	 0
+Dificuldade do jogo:	 0
+
+
+Nome do jogador:	 (null)
+Pontuação máxima obtida:	 0
+Maior peça obtida:	 0
+Tempo de jogo:	 0
+Dimensão do tabuleiro:	 0
+Dificuldade do jogo:	 0
+
+
+Nome do jogador:	 (null)
+Pontuação máxima obtida:	 0
+Maior peça obtida:	 0
+Tempo de jogo:	 0
+Dimensão do tabuleiro:	 0
+Dificuldade do jogo:	 0
+
+
+Nome do jogador:	 (null)
+Pontuação máxima obtida:	 0
+Maior peça obtida:	 0
+Tempo de jogo:	 0
+Dimensão do tabuleiro:	 0
+Dificuldade do jogo:	 0
+
+
+Nome do jogador:	 (null)
+Pontuação máxima obtida:	 0
+Maior peça obtida:	 0
+Tempo de jogo:	 0
+Dimensão do tabuleiro:	 0
+Dificuldade do jogo:	 0
+
+
+Nome do jogador:	 (null)
+Pontuação máxima obtida:	 0
+Maior peça obtida:	 0
+Tempo de jogo:	 0
+Dimensão do tabuleiro:	 0
+Dificuldade do jogo:	 0
+
+
+Nome do jogador:	 (null)
+Pontuação máxima obtida:	 0
+Maior peça obtida:	 0
+Tempo de jogo:	 0
+Dimensão do tabuleiro:	 0
+Dificuldade do jogo:	 0
+
+
+Nome do jogador:	 (null)
+Pontuação máxima obtida:	 0
+Maior peça obtida:	 0
+Tempo de jogo:	 0
+Dimensão do tabuleiro:	 0
+Dificuldade do jogo:	 0
+
+
+Nome do jogador:	 (null)
+Pontuação máxima obtida:	 0
+Maior peça obtida:	 0
+Tempo de jogo:	 0
+Dimensão do tabuleiro:	 0
+Dificuldade do jogo:	 0
+
+
+Nome do jogador:	 (null)
+Pontuação máxima obtida:	 0
+Maior peça obtida:	 0
+Tempo de jogo:	 0
+Dimensão do tabuleiro:	 0
+Dificuldade do jogo:	 0
+
+
+Nome do jogador:	 (null)
+Pontuação máxima obtida:	 0
+Maior peça obtida:	 0
+Tempo de jogo:	 0
+Dimensão do tabuleiro:	 0
+Dificuldade do jogo:	 0
+
+
+Nome do jogador:	 (null)
+Pontuação máxima obtida:	 0
+Maior peça obtida:	 0
+Tempo de jogo:	 0
+Dimensão do tabuleiro:	 0
+Dificuldade do jogo:	 0
+
+
+Nome do jogador:	 (null)
+Pontuação máxima obtida:	 0
+Maior peça obtida:	 0
+Tempo de jogo:	 0
+Dimensão do tabuleiro:	 0
+Dificuldade do jogo:	 0
+
+
+Nome do jogador:	 1235
+Pontuação máxima obtida:	 0
+Maior peça obtida:	 4
+Tempo de jogo:	 1
+Dimensão do tabuleiro:	 7
+Dificuldade do jogo:	 128
+
+
+Nome do jogador:	 (null)
+Pontuação máxima obtida:	 0
+Maior peça obtida:	 0
+Tempo de jogo:	 0
+Dimensão do tabuleiro:	 0
+Dificuldade do jogo:	 0
+
+
+Nome do jogador:	 1234
+Pontuação máxima obtida:	 0
+Maior peça obtida:	 4
+Tempo de jogo:	 1
+Dimensão do tabuleiro:	 5
+Dificuldade do jogo:	 2048
+
+
+Nome do jogador:	 (null)
+Pontuação máxima obtida:	 0
+Maior peça obtida:	 0
+Tempo de jogo:	 0
+Dimensão do tabuleiro:	 0
+Dificuldade do jogo:	 0
+
+
+Nome do jogador:	 (null)
+Pontuação máxima obtida:	 0
+Maior peça obtida:	 0
+Tempo de jogo:	 0
+Dimensão do tabuleiro:	 0
+Dificuldade do jogo:	 0
+
+
+Nome do jogador:	 12345678
+Pontuação máxima obtida:	 0
+Maior peça obtida:	 4
+Tempo de jogo:	 2
+Dimensão do tabuleiro:	 4
+Dificuldade do jogo:	 2048
+
+
+Nome do jogador:	 (null)
+Pontuação máxima obtida:	 0
+Maior peça obtida:	 0
+Tempo de jogo:	 0
+Dimensão do tabuleiro:	 0
+Dificuldade do jogo:	 0
+
+
+Nome do jogador:	 (null)
+Pontuação máxima obtida:	 0
+Maior peça obtida:	 0
+Tempo de jogo:	 0
+Dimensão do tabuleiro:	 0
+Dificuldade do jogo:	 0
+
+
+Nome do jogador:	 1234567
+Pontuação máxima obtida:	 380
+Maior peça obtida:	 32
+Tempo de jogo:	 13
+Dimensão do tabuleiro:	 4
+Dificuldade do jogo:	 2048
+
+
+Nome do jogador:	 1234567
+Pontuação máxima obtida:	 6308
+Maior peça obtida:	 64
+Tempo de jogo:	 1168
+Dimensão do tabuleiro:	 5
+Dificuldade do jogo:	 2048
+
+
+Nome do jogador:	 (null)
+Pontuação máxima obtida:	 0
+Maior peça obtida:	 0
+Tempo de jogo:	 0
+Dimensão do tabuleiro:	 0
+Dificuldade do jogo:	 0
+
+
+Nome do jogador:	 12345
+Pontuação máxima obtida:	 2620
+Maior peça obtida:	 64
+Tempo de jogo:	 9
+Dimensão do tabuleiro:	 4
+Dificuldade do jogo:	 2048
+
+
+Nome do jogador:	 12345
+Pontuação máxima obtida:	 1284
+Maior peça obtida:	 64
+Tempo de jogo:	 5
+Dimensão do tabuleiro:	 4
+Dificuldade do jogo:	 2048
+
+
+Nome do jogador:	 12345
+Pontuação máxima obtida:	 688
+Maior peça obtida:	 8
+Tempo de jogo:	 3
+Dimensão do tabuleiro:	 4
+Dificuldade do jogo:	 4096
+
+
+Nome do jogador:	 12345
+Pontuação máxima obtida:	 828
+Maior peça obtida:	 8
+Tempo de jogo:	 4
+Dimensão do tabuleiro:	 4
+Dificuldade do jogo:	 4096
+
+
+Nome do jogador:	 12345
+Pontuação máxima obtida:	 2180
+Maior peça obtida:	 32
+Tempo de jogo:	 8
+Dimensão do tabuleiro:	 4
+Dificuldade do jogo:	 64
+
+
+Nome do jogador:	 12345
+Pontuação máxima obtida:	 3056
+Maior peça obtida:	 8
+Tempo de jogo:	 11
+Dimensão do tabuleiro:	 4
+Dificuldade do jogo:	 2048
+
+
+Nome do jogador:	 1235
+Pontuação máxima obtida:	 1336
+Maior peça obtida:	 8
+Tempo de jogo:	 6
+Dimensão do tabuleiro:	 4
+Dificuldade do jogo:	 65536
+
+
+Nome do jogador:	 1235
+Pontuação máxima obtida:	 816
+Maior peça obtida:	 8
+Tempo de jogo:	 4
+Dimensão do tabuleiro:	 4
+Dificuldade do jogo:	 4096
+
+
+Nome do jogador:	 1235
+Pontuação máxima obtida:	 1700
+Maior peça obtida:	 8
+Tempo de jogo:	 10
+Dimensão do tabuleiro:	 5
+Dificuldade do jogo:	 2048
+
+
+Nome do jogador:	 12345
+Pontuação máxima obtida:	 0
+Maior peça obtida:	 4
+Tempo de jogo:	 1
+Dimensão do tabuleiro:	 4
+Dificuldade do jogo:	 2048
+
+
+Nome do jogador:	 123456
+Pontuação máxima obtida:	 2868
+Maior peça obtida:	 32
+Tempo de jogo:	 28
+Dimensão do tabuleiro:	 5
+Dificuldade do jogo:	 4096
+
+
+Nome do jogador:	 123456
+Pontuação máxima obtida:	 1172
+Maior peça obtida:	 32
+Tempo de jogo:	 13
+Dimensão do tabuleiro:	 4
+Dificuldade do jogo:	 2048
+
+
+Nome do jogador:	 123456
+Pontuação máxima obtida:	 860
+Maior peça obtida:	 32
+Tempo de jogo:	 12
+Dimensão do tabuleiro:	 4
+Dificuldade do jogo:	 2048
+
+
+Nome do jogador:	 123456
+Pontuação máxima obtida:	 3936
+Maior peça obtida:	 16
+Tempo de jogo:	 39
+Dimensão do tabuleiro:	 7
+Dificuldade do jogo:	 4096
+
+
+Nome do jogador:	 123456
+Pontuação máxima obtida:	 1500
+Maior peça obtida:	 8
+Tempo de jogo:	 25
+Dimensão do tabuleiro:	 4
+Dificuldade do jogo:	 2048
+
+
+Nome do jogador:	 1234567
+Pontuação máxima obtida:	 2324
+Maior peça obtida:	 8
+Tempo de jogo:	 20
+Dimensão do tabuleiro:	 4
+Dificuldade do jogo:	 2048
+
+
+Nome do jogador:	 1234567
+Pontuação máxima obtida:	 1576
+Maior peça obtida:	 8
+Tempo de jogo:	 17
+Dimensão do tabuleiro:	 4
+Dificuldade do jogo:	 4096
+
+
+Nome do jogador:	 1234567
+Pontuação máxima obtida:	 1268
+Maior peça obtida:	 32
+Tempo de jogo:	 14
+Dimensão do tabuleiro:	 4
+Dificuldade do jogo:	 2048
+
+
+Nome do jogador:	 1234567
+Pontuação máxima obtida:	 2944
+Maior peça obtida:	 8
+Tempo de jogo:	 24
+Dimensão do tabuleiro:	 4
+Dificuldade do jogo:	 65536
+
+
+Nome do jogador:	 1234567
+Pontuação máxima obtida:	 3480
+Maior peça obtida:	 32
+Tempo de jogo:	 34
+Dimensão do tabuleiro:	 6
+Dificuldade do jogo:	 4096
+
+
+Nome do jogador:	 1234567
+Pontuação máxima obtida:	 0
+Maior peça obtida:	 4
+Tempo de jogo:	 2
+Dimensão do tabuleiro:	 4
+Dificuldade do jogo:	 128
+
+
+Nome do jogador:	 1234567
+Pontuação máxima obtida:	 0
+Maior peça obtida:	 2
+Tempo de jogo:	 0
+Dimensão do tabuleiro:	 6
+Dificuldade do jogo:	 2048
+
+
+Nome do jogador:	 (null)
+Pontuação máxima obtida:	 0
+Maior peça obtida:	 0
+Tempo de jogo:	 0
+Dimensão do tabuleiro:	 0
+Dificuldade do jogo:	 0
+
+
+Nome do jogador:	 12345678
+Pontuação máxima obtida:	 3012
+Maior peça obtida:	 32
+Tempo de jogo:	 37
+Dimensão do tabuleiro:	 4
+Dificuldade do jogo:	 2048
+
+
+Nome do jogador:	 12345678
+Pontuação máxima obtida:	 1524
+Maior peça obtida:	 32
+Tempo de jogo:	 25
+Dimensão do tabuleiro:	 4
+Dificuldade do jogo:	 4096
+
+
+Nome do jogador:	 12345678
+Pontuação máxima obtida:	 1316
+Maior peça obtida:	 8
+Tempo de jogo:	 20
+Dimensão do tabuleiro:	 4
+Dificuldade do jogo:	 4096
+
+
+Nome do jogador:	 12345678
+Pontuação máxima obtida:	 2144
+Maior peça obtida:	 32
+Tempo de jogo:	 25
+Dimensão do tabuleiro:	 4
+Dificuldade do jogo:	 2048
+
+
+Nome do jogador:	 12345678
+Pontuação máxima obtida:	 592
+Maior peça obtida:	 8
+Tempo de jogo:	 11
+Dimensão do tabuleiro:	 4
+Dificuldade do jogo:	 2048
+
+
+Nome do jogador:	 12345678
+Pontuação máxima obtida:	 672
+Maior peça obtida:	 8
+Tempo de jogo:	 10
+Dimensão do tabuleiro:	 4
+Dificuldade do jogo:	 2048
+
+
+Nome do jogador:	 12345678
+Pontuação máxima obtida:	 8
+Maior peça obtida:	 8
+Tempo de jogo:	 1
+Dimensão do tabuleiro:	 4
+Dificuldade do jogo:	 2048
+
+
+Nome do jogador:	 12345678
+Pontuação máxima obtida:	 1036
+Maior peça obtida:	 32
+Tempo de jogo:	 20
+Dimensão do tabuleiro:	 4
+Dificuldade do jogo:	 2048
+
+
+Nome do jogador:	 123456
+Pontuação máxima obtida:	 1536
+Maior peça obtida:	 8
+Tempo de jogo:	 47
+Dimensão do tabuleiro:	 4
+Dificuldade do jogo:	 2048
+
+
+Nome do jogador:	 12345
+Pontuação máxima obtida:	 608
+Maior peça obtida:	 32
+Tempo de jogo:	 58
+Dimensão do tabuleiro:	 4
+Dificuldade do jogo:	 2048
+
+
+Nome do jogador:	 (null)
+Pontuação máxima obtida:	 0
+Maior peça obtida:	 0
+Tempo de jogo:	 0
+Dimensão do tabuleiro:	 0
+Dificuldade do jogo:	 0
+
+
+Nome do jogador:	 12345
+Pontuação máxima obtida:	 388
+Maior peça obtida:	 32
+Tempo de jogo:	 22
+Dimensão do tabuleiro:	 4
+Dificuldade do jogo:	 2048
+
+
+Nome do jogador:	 (null)
+Pontuação máxima obtida:	 0
+Maior peça obtida:	 0
+Tempo de jogo:	 0
+Dimensão do tabuleiro:	 0
+Dificuldade do jogo:	 0
+
+
+Nome do jogador:	 (null)
+Pontuação máxima obtida:	 0
+Maior peça obtida:	 0
+Tempo de jogo:	 0
+Dimensão do tabuleiro:	 0
+Dificuldade do jogo:	 0
+
+
+Nome do jogador:	 (null)
+Pontuação máxima obtida:	 0
+Maior peça obtida:	 0
+Tempo de jogo:	 0
+Dimensão do tabuleiro:	 0
+Dificuldade do jogo:	 0
+
+
+Nome do jogador:	 (null)
+Pontuação máxima obtida:	 0
+Maior peça obtida:	 0
+Tempo de jogo:	 0
+Dimensão do tabuleiro:	 0
+Dificuldade do jogo:	 0
+
+
+Nome do jogador:	 12345
+Pontuação máxima obtida:	 0
+Maior peça obtida:	 4
+Tempo de jogo:	 2
+Dimensão do tabuleiro:	 7
+Dificuldade do jogo:	 2048
+
+
+Nome do jogador:	 (null)
+Pontuação máxima obtida:	 0
+Maior peça obtida:	 0
+Tempo de jogo:	 0
+Dimensão do tabuleiro:	 0
+Dificuldade do jogo:	 0
+
+
+Nome do jogador:	 (null)
+Pontuação máxima obtida:	 0
+Maior peça obtida:	 0
+Tempo de jogo:	 0
+Dimensão do tabuleiro:	 0
+Dificuldade do jogo:	 0
+
+
+                                                                                                                                                      Nome do jogador:	 goncaloM
+Pontuação máxima obtida:	 2804
+Maior peça obtida:	 8
+Tempo de jogo:	 169
+Dimensão do tabuleiro:	 4
+Dificuldade do jogo:	 2048
+
+
+Nome do jogador:	 puta
+Pontuação máxima obtida:	 164
+Maior peça obtida:	 -9223372036854775808
+Tempo de jogo:	 13
+Dimensão do tabuleiro:	 4
+Dificuldade do jogo:	 4096
+
+
+Nome do jogador:	 puta
+Pontuação máxima obtida:	 16
+Maior peça obtida:	 4
+Tempo de jogo:	 4
+Dimensão do tabuleiro:	 6
+Dificuldade do jogo:	 4096
+
+
+Nome do jogador:	 puta
+Pontuação máxima obtida:	 476
+Maior peça obtida:	 32
+Tempo de jogo:	 12
+Dimensão do tabuleiro:	 4
+Dificuldade do jogo:	 4096
+
+
+Nome do jogador:	 23456778
+Pontuação máxima obtida:	 1596
+Maior peça obtida:	 -9223372036854775808
+Tempo de jogo:	 79
+Dimensão do tabuleiro:	 5
+Dificuldade do jogo:	 2048
+
+
+Nome do jogador:	 123456
+Pontuação máxima obtida:	 932
+Maior peça obtida:	 16
+Tempo de jogo:	 19
+Dimensão do tabuleiro:	 6
+Dificuldade do jogo:	 4096
+
+
+Nome do jogador:	 goncalo
+Pontuação máxima obtida:	 4692
+Maior peça obtida:	 32
+Tempo de jogo:	 70
+Dimensão do tabuleiro:	 4
+Dificuldade do jogo:	 4096
+
+
+Nome do jogador:	 goncalo
+Pontuação máxima obtida:	 372
+Maior peça obtida:	 8
+Tempo de jogo:	 13
+Dimensão do tabuleiro:	 4
+Dificuldade do jogo:	 2048
+
+
+Nome do jogador:	 goncalo
+Pontuação máxima obtida:	 0
+Maior peça obtida:	 2
+Tempo de jogo:	 3
+Dimensão do tabuleiro:	 4
+Dificuldade do jogo:	 2048
+
+
