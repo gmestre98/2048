@@ -11,3 +11,6 @@ And runs using:
 ./2048
 
 To play it was only needed to use the arrow keys, and the ones listed in the window.
+
+Grade:
+20/20
